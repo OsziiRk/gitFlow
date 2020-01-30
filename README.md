@@ -1,2 +1,2 @@
 # gitFlow
-developmen branch
+feature branch
